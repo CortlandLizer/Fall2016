@@ -52,7 +52,7 @@ public class Recursion {
             return true;
         }
         return false;
-
+ 
     }
 
     public static int factor(String string) {
